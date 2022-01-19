@@ -12,6 +12,6 @@ function sayHello(person){
 }
 
 console.log(typeof people);
-console.log(typeof sayHello)
+console.log(typeof sayHello);
 console.log(typeof employee instanceof Array);
 sayHello(employee);
